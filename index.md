@@ -3,7 +3,7 @@
 
 ## Plugins
 | Name | Repo | Docs | Download | Type |
-| ---- | ---- | ---- | ---- | ---- |
+| --- | --- | --- | --- | --- |
 | Server Selector | [OccultoStudios](https://github.com/OccultoStudios/CastleServerSelector) | None | Closed Source | Plugin |
 | Titles & Tags | [OccultoStudios](https://github.com/OccultoStudios/Titles) | None | Closed Source | Plugin |
 | Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
