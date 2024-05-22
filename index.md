@@ -1,8 +1,8 @@
 # Occulto Studios
-#### The team behind occulto.quest
+#### :wave: Hello! This page is a development guide for Occulto. Whether you are a developer for us, or want to use our API, here you can find out how!
 
 ## Plugins
-Plugin list below
+List of plugins used below.
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
