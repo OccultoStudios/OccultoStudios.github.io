@@ -3,6 +3,7 @@
 
 ## Plugins & Mods
 List of plugins and mods we've made and use below.
+* All plugins use Caramel as the API.
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
