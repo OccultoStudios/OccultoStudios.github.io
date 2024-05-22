@@ -1,5 +1,5 @@
 # Occulto Studios
-#### :wave: Hello! This page is a development guide for Occulto. Whether you are a developer for us, or want to use our API, here you can find out how!
+#### 👋 Hello! This site is a development guide for Occulto. If you are a developer for us, or want to use our API, here is where you can find out how!
 
 ## Plugins
 List of plugins used below.
