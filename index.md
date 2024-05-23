@@ -87,4 +87,13 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Rank: Artist | E209 |  |
 | Rank: Tester | E20A |  |
 | Rank: Adventurer (default) | E20B |  |
+| Fire (Right) | E210 |  |
+| Fire (Left) | E211 |  |
+| Rarity: Common | E220 |  |
+| Rarity: Uncommon | E221 |  |
+| Rarity: Rare | E222 |  |
+| Rarity: Epic | E223 |  |
+| Rarity: Legendary | E224 |  |
+| Ranged Weapon Tag |E22A |  |
+| Melee Weapon Tag | E22B |  |
 | --- | --- | --- |
