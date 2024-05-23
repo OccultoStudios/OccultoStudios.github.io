@@ -81,4 +81,10 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Rank: Jr. Mod | E203 |  |
 | Rank: Dev | E204 |  |
 | Rank: Architect (builder) | E205 |  |
+| Rank: Sr. Admin | E206 |  |
+| Rank: Designer | E207 |  |
+| Rank: Helper | E208 |  |
+| Rank: Artist | E209 |  |
+| Rank: Tester | E20A |  |
+| Rank: Adventurer (default) | E20B |  |
 | --- | --- | --- |
