@@ -49,5 +49,10 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 
 | Use Cases | Glyph | Copyable |
 | --- | --- | --- |
-| Rank: Owner| E200 |  |
+| Rank: Owner | E200 |  |
+| Rank: Admin | E201 |  |
+| Rank: Mod | E202 |  |
+| Rank: Jr. Mod | E203 |  |
+| Rank: Dev | E204 |  |
+| Rank: Architect (builder) | E205 |  |
 | --- | --- | --- |
