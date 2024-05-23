@@ -44,3 +44,10 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Heart Symbol | E105 |  |
 | Speed Potion | E106 |  |
 | --- | --- | --- |
+
+#### Glyph E2 (64x64 graph)
+
+| Use Cases | Glyph | Copyable |
+| --- | --- | --- |
+| Rank: Owner| E200 |  |
+| --- | --- | --- |
