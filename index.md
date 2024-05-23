@@ -31,3 +31,8 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | --- | --- | --- |
 
 ## Unicodes
+
+| Uses Cases | Unicode Name | Copyable Unicode |
+| --- | --- | --- |
+| Chat Symbol| E100 |  |
+| --- | --- | --- |
