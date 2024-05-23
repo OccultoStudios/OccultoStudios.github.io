@@ -12,3 +12,8 @@ List of plugins and mods we've made and use below.
 | Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
 | Caramel | [klashdevelopment/caramel](https://github.com/klashdevelopment/Caramel) | [pages.klash.dev/Caramel](https://pages.klash.dev/Caramel) | [from Maven](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/dev/klash/Caramel/Caramel-1.0.0.jar) | Plugin |
 | --- | --- | --- | --- | --- |
+
+## Custom Model Data
+Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically convert to custom geo models in Bedrock.
+
+## Unicodes
