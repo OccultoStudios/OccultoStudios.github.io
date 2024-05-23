@@ -18,6 +18,8 @@ List of plugins and mods we've made and use below.
 ## Custom Model Data
 Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically convert to custom geo models in Bedrock.
 
+#### GUI (java only)
+
 | Uses Cases | Item | Model Data |
 | --- | --- | --- |
 | Skills: Combat | CHARCOAL | 1 |
@@ -28,7 +30,31 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Skills: Enchanting | CHARCOAL | 6 |
 | Settings: Enabled | CHARCOAL: | 7 |
 | Settings: Disabled | CHARCOAL | 8 |
+| Friends: Request | CHARCOAL | 9 |
+| Music | CHARCOAL | 10 |
+| Trade: Gift | CHARCOAL | 11 |
+| Trade: Add Coins | CHARCOAL | 12 |
+| Trade: Accept | CHARCOAL | 1004 |
+| Trade: Deny | CHARCOAL | 1005 |
+| Server: Red | CHARCOAL | 13 |
+| Server: Yellow | CHARCOAL | 14 |
+| Server: Green | CHARCOAL | 15 |
+| Server: Custom Color | LEATHER_CHESTPLATE | 1 |
+| GUI Filler, Blank GUI Space | CHARCOAL | 999 |
+| Left Arrow | CHARCOAL | 1000 |
+| Right Arrow | CHARCOAL | 1001 |
+| Up Arrow | CHARCOAL | 1002 |
+| Down Arrow | CHARCOAL | 1003 |
 | --- | --- | --- |
+
+#### Tools (java & bedrock)
+
+| Uses Cases | Item | Model Data |
+| Adventurer's Sword | WOODEN_SWORD | 1000 |
+| Adventurer's Pickaxe | WOODEN_PICKAXE | 1000 |
+| Adventurer's Axe | WOODEN_AXE | 1000 |
+| Adventurer's Hoe | WOODEN_HOE | 1000 |
+| Adventurer's Shovel | WOODEN_SHOVEL | 1000 |
 
 ## Unicodes
 
