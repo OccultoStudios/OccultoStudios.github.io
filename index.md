@@ -18,7 +18,7 @@ List of plugins and mods we've made and use below.
 ## Custom Model Data
 Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically convert to custom geo models in Bedrock.
 
-| Uses | Item | Model Data |
+| Uses Cases | Item | Model Data |
 | --- | --- | --- |
 | Skills: Combat | CHARCOAL | 1 |
 | Skills: Mining | CHARCOAL | 2 |
@@ -26,6 +26,8 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Skills: Farming | CHARCOAL | 4 |
 | Skills: Fishing | CHARCOAL | 5 |
 | Skills: Enchanting | CHARCOAL | 6 |
+| Settings: Enabled | CHARCOAL: | 7 |
+| Settings: Disabled | CHARCOAL | 8 |
 | --- | --- | --- |
 
 ## Unicodes
