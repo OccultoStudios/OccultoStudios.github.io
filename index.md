@@ -1,7 +1,7 @@
 
 #### 👋 Hello! This site is a development guide for Occulto. If you are a developer for us, or want to use our API, here is where you can find out how!
 
-## Plugins & Mods
+## Plugins, Mods & Resource Packs
 List of plugins and mods we've made and use below.
 * All plugins use Caramel as the API.
 
@@ -11,6 +11,8 @@ List of plugins and mods we've made and use below.
 | Titles & Tags | [OccultoStudios](https://github.com/OccultoStudios/Titles) | None | Closed Source | Plugin |
 | Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
 | Caramel | [klashdevelopment/caramel](https://github.com/klashdevelopment/Caramel) | [pages.klash.dev/Caramel](https://pages.klash.dev/Caramel) | [from Maven](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/dev/klash/Caramel/Caramel-1.0.0.jar) | Plugin |
+| Java RP | [OccultoStudios](https://github.com/OccultoStudios/Java-RP) | None | Closed Source | Resouurce Pack |
+| Bedrock RP | [OccultoStudios](https://github.com/OccultoStudios/Bedrock-RP) | None | Closed Source | Resource Pack |
 | --- | --- | --- | --- | --- |
 
 ## Custom Model Data
