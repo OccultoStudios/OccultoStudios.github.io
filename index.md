@@ -32,7 +32,14 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 
 ## Unicodes
 
+#### Glyph E1 (16x16 graph)
 | Uses Cases | Unicode Name | Copyable Unicode |
 | --- | --- | --- |
 | Chat Symbol| E100 |  |
+| Player Leave | E101 |  |
+| Player Join | E102 |  |
+| Discord Symbol | E103 |  |
+| Minecraft Symbol | E104 |  |
+| Heart Symbol | E105 |  |
+| Speed Potion | E106 |  |
 | --- | --- | --- |
