@@ -1,2 +1,2 @@
 # OccultoStudios Github
-Homepage for our development blog/site
+Development guide for Occulto.
