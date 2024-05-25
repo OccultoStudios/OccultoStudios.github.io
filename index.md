@@ -4,6 +4,7 @@
 ## Plugins, Mods & Resource Packs
 List of plugins and mods we've made and use below.
 * All plugins use Caramel as the API.
+* All plugins use Paper API.
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
