@@ -50,11 +50,13 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 #### Tools (java & bedrock)
 
 | Uses Cases | Item | Model Data |
+| --- | --- | --- |
 | Adventurer's Sword | WOODEN_SWORD | 1000 |
 | Adventurer's Pickaxe | WOODEN_PICKAXE | 1000 |
 | Adventurer's Axe | WOODEN_AXE | 1000 |
 | Adventurer's Hoe | WOODEN_HOE | 1000 |
 | Adventurer's Shovel | WOODEN_SHOVEL | 1000 |
+| --- | --- | --- |
 
 ## Unicodes
 
