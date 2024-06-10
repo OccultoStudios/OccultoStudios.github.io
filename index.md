@@ -3,8 +3,8 @@
 
 ## Plugins, Mods & Resource Packs
 List of plugins and mods we've made and use below.
-* ~~ All plugins use Caramel as the API. ~~
-* ~~ All plugins use Paper API. ~~
+* ~All plugins use Caramel as the API.~
+* ~All plugins use Paper API.~
 
 **With the introduction and full occulto re-write with Minestom, Caramel and ALL OTHER PAPER PLUGINS will be completely unused.**
 
