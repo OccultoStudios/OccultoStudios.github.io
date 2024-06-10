@@ -3,19 +3,16 @@
 
 ## Plugins, Mods & Resource Packs
 List of plugins and mods we've made and use below.
-* All plugins use Caramel as the API.
-* All plugins use Paper API.
+* ~~ All plugins use Caramel as the API. ~~
+* ~~ All plugins use Paper API. ~~
+
+**With the introduction and full occulto re-write with Minestom, Caramel and ALL OTHER PAPER PLUGINS will be completely unused.**
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
-| Server Selector | [OccultoStudios](https://github.com/OccultoStudios/CastleServerSelector) | None | Closed Source | Plugin |
-| Titles & Tags | [OccultoStudios](https://github.com/OccultoStudios/Titles) | None | Closed Source | Plugin |
-| Trading | [OccultoStudios](https://github.com/OccultoStudios/CastleTrading) | None | Closed Source | Plugin |
-| Social Links | [OccultoStudios](https://github.com/OccultoStudios/CastleSocials) | None | Closed Source | Plugin |
-| Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
-| Caramel | [klashdevelopment/caramel](https://github.com/klashdevelopment/Caramel) | [pages.klash.dev/Caramel](https://pages.klash.dev/Caramel) | [from Maven](https://raw.githubusercontent.com/klashdevelopment/mvn/main/repository/dev/klash/Caramel/Caramel-1.0.0.jar) | Plugin |
 | Java RP | [OccultoStudios](https://github.com/OccultoStudios/Java-RP) | None | Closed Source | Resource Pack |
 | Bedrock RP | [OccultoStudios](https://github.com/OccultoStudios/Bedrock-RP) | None | Closed Source | Resource Pack |
+| Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
 | --- | --- | --- | --- | --- |
 
 ## Custom Model Data
