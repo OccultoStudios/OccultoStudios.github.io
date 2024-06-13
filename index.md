@@ -72,6 +72,9 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Minecraft Symbol | E104 |  |
 | Heart Symbol | E105 |  |
 | Speed Potion | E106 |  |
+| Yama | E107 |  |
+| Trophy | E108 |  |
+| Season 0 Badge | E109 |  |
 | --- | --- | --- |
 
 #### Glyph E2 (64x64 graph)
@@ -92,6 +95,8 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Rank: Adventurer (default) | E20B |  |
 | Fire (Right) | E210 |  |
 | Fire (Left) | E211 |  |
+| Founders Pass | E212 |  |
+| Beta Pass | E213 |  |
 | Rarity: Common | E220 |  |
 | Rarity: Uncommon | E221 |  |
 | Rarity: Rare | E222 |  |
@@ -100,3 +105,22 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Ranged Weapon Tag |E22A |  |
 | Melee Weapon Tag | E22B |  |
 | --- | --- | --- |
+
+### Glyph E3 (32x32, downscaled to 16x16 on Java's Side)
+
+Level Unicodes, lowest to highest.
+
+`                                                                           
+                                                                           
+                                                                           
+                                                                           
+                    `
+
+### Glyph E4 (256x256 Graph)
+
+| Use Cases | Glyph | Copyable |
+| --- | --- | --- |
+| Occulto Text Logo | E400 |  |
+| --- | --- | --- |
+
+
