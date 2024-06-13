@@ -1,7 +1,7 @@
 
 #### 👋 Hello! This site is a development guide for Occulto. If you are a developer for us, or are looking to hook into our API, here is where you can find out how!
 
-## Plugins, Mods & Resource Packs
+## Server Jars, Mods & Resource Packs
 List of jars, resource packs and mods we've made and use below.
 * All Server Jars use [Minestom](https://minestom.net)'s Libraries.
 * All Jars use Kotlin & Java.
