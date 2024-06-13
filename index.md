@@ -3,10 +3,8 @@
 
 ## Plugins, Mods & Resource Packs
 List of jars, resource packs and mods we've made and use below.
-* All plugins use Minestom's Libraries.
-* All plugins use Kotlin & Java.
-
-**With the introduction and full occulto re-write with Minestom, Caramel and ALL OTHER PAPER PLUGINS will be completely unused.**
+* All Server Jars use [Minestom](https://minestom.net)'s Libraries.
+* All Jars use Kotlin & Java.
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
