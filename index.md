@@ -1,15 +1,16 @@
 
-#### 👋 Hello! This site is a development guide for Occulto. If you are a developer for us, or want to use our API, here is where you can find out how!
+#### 👋 Hello! This site is a development guide for Occulto. If you are a developer for us, or are looking to hook into our API, here is where you can find out how!
 
 ## Plugins, Mods & Resource Packs
-List of plugins and mods we've made and use below.
-* ~All plugins use Caramel as the API.~
-* ~All plugins use Paper API.~
+List of jars, resource packs and mods we've made and use below.
+* All plugins use Minestom's Libraries.
+* All plugins use Kotlin & Java.
 
 **With the introduction and full occulto re-write with Minestom, Caramel and ALL OTHER PAPER PLUGINS will be completely unused.**
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
+| Castle |[OccultoStudios](https://github.com/OccultoStudios/Castle) | None | Closed Source | Server Jar |
 | Java RP | [OccultoStudios](https://github.com/OccultoStudios/Java-RP) | None | Closed Source | Resource Pack |
 | Bedrock RP | [OccultoStudios](https://github.com/OccultoStudios/Bedrock-RP) | None | Closed Source | Resource Pack |
 | Occulto Addons | [OccultoStudios](https://github.com/OccultoStudios/occulto-addons-and-utils) | None | Closed Source | Mod |
