@@ -132,7 +132,7 @@ List of jars, resource packs and mods we've made and use below.
 | Melee Weapon Tag | E22B |  |
 | --- | --- | --- |
 
-### Glyph E3 (32x32)
+#### Glyph E3 (32x32)
 
 | Use Cases | Unicode | Copyable |
 | Level 0 | E300 |  |
