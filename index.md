@@ -15,7 +15,6 @@ List of jars, resource packs and mods we've made and use below.
 | --- | --- | --- | --- | --- |
 
 ## Custom Model Data
-Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically convert to custom geo models in Bedrock.
 
 #### GUI (java only)
 
@@ -61,7 +60,7 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 
 #### Glyph E1 (16x16 graph)
 
-| Use Cases | Glyph | Copyable |
+| Uses Cases | Unicode | Copyable |
 | --- | --- | --- |
 | Chat Symbol| E100 |  |
 | Player Leave | E101 |  |
@@ -73,11 +72,38 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Yama | E107 |  |
 | Trophy | E108 |  |
 | Season 0 Badge | E109 |  |
+| Megaphone | E10A |  |
+| Occulto Eye (Mini) | E10B |  |
+| Mouse Left Click | E10C |  |
+| Mouse Right Click | E10D |  |
+| Playstation L2 | E10E |  |
+| Playstation R2 | E10F |  |
+| Windows | E110 |  |
+| Android | E111 |  |
+| MacOS/iOS | E112 |  |
+| Xbox | E113 |  |
+| Playstation | E114 |  |
+| Nintendo Switch | E115 |  |
+| Java | E116 |  |
+| Xbox LT | E117 |  |
+| Xbox RT | E118 |  |
+| Switch ZL | E119 |  |
+| Switch ZR | E11A |  |
+| Combat Skill | E11B |  |
+| Woodcutting Skill | E11C |  |
+| Mining Skill | E11D |  |
+| Farming Skill | E11E |  |
+| Fishing Skill | E11F |  |
+| Chat Symbol (NPC) | E120 |  |
+| Shop Symbol (NPC) | E121 |  |
+| Exclamation (NPC, Blue) | E122 |  |
+| Exclamation (NPC, Red) | E123 |  |
+| Pin | E124 |  |
 | --- | --- | --- |
 
 #### Glyph E2 (64x64 graph)
 
-| Use Cases | Glyph | Copyable |
+| Use Cases | Unicode | Copyable |
 | --- | --- | --- |
 | Rank: Owner | E200 |  |
 | Rank: Admin | E201 |  |
@@ -91,8 +117,9 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Rank: Artist | E209 |  |
 | Rank: Tester | E20A |  |
 | Rank: Adventurer (default) | E20B |  |
-| Fire (Right) | E210 |  |
-| Fire (Left) | E211 |  |
+| Rank: VIP | E20C |  |
+| nothing (soon to be replaced) | E210 |  |
+| Fire (Left) (soon to be replaced) | E211 |  |
 | Founders Pass | E212 |  |
 | Beta Pass | E213 |  |
 | Rarity: Common | E220 |  |
@@ -100,25 +127,102 @@ Java only! In Bedrock's Port/Geyser, this Custom Model Data will automatically c
 | Rarity: Rare | E222 |  |
 | Rarity: Epic | E223 |  |
 | Rarity: Legendary | E224 |  |
+| Rarity: Mythic | E225 |  |
 | Ranged Weapon Tag |E22A |  |
 | Melee Weapon Tag | E22B |  |
 | --- | --- | --- |
 
-### Glyph E3 (32x32, downscaled to 16x16 on Java's Side)
+### Glyph E3 (32x32)
 
-Level Unicodes, lowest to highest.
-
-`                                                                           
-                                                                           
-                                                                           
-                                                                           
-                    `
+| Use Cases | Unicode | Copyable |
+| Level 0 | E300 |  |
+| Level 1 | E301 |  |
+| Level 2 | E302 |  |
+| Level 3 | E303 |  |
+| Level 4 | E304 |  |
+| Level 5 | E305 |  |
+| Level 6 | E306 |  |
+| Level 7 | E307 |  |
+| Level 8 | E308 |  |
+| Level 9 | E309 |  |
+| Level 10 | E30A |  |
+| Level 11 | E30B |  |
+| Level 12 | E30C |  |
+| Level 13 | E30D |  |
+| Level 14 | E30E |  |
+| Level 15 | E30F |  |
+| Level 16 | E310 |  |
+| Level 17 | E311 |  |
+| Level 18 | E312 |  |
+| Level 19 | E313 |  |
+| Level 20 | E314 |  |
+| Level 21 | E315 |  |
+| Level 22 | E316 |  |
+| Level 23 | E317 |  |
+| Level 24 | E318 |  |
+| Level 25 | E319 |  |
+| Level 26 | E31A |  |
+| Level 27 | E31B |  |
+| Level 28 | E31C |  |
+| Level 29 | E31D |  |
+| Level 30 | E31E |  |
+| Level 31 | E31F |  |
+| Level 32 | E320 |  |
+| Level 33 | E321 |  |
+| Level 34 | E322 |  |
+| Level 35 | E323 |  |
+| Level 36 | E324 |  |
+| Level 37 | E325 |  |
+| Level 38 | E326 |  |
+| Level 39 | E327 |  |
+| Level 40 | E328 |  |
+| Level 41 | E329 |  |
+| Level 42 | E32A |  |
+| Level 43 | E32B |  |
+| Level 44 | E32C |  |
+| Level 45 | E32D |  |
+| Level 46 | E32E |  |
+| Level 47 | E32F |  |
+| Level 48 | E330 |  |
+| Level 49 | E331 |  |
+| Level 50 | E332 |  |
+| Level 51 | E333 |  |
+| Level 52 | E334 |  |
+| Level 53 | E335 |  |
+| Level 54 | E336 |  |
+| Level 55 | E337 |  |
+| Level 56 | E338 |  |
+| Level 57 | E339 |  |
+| Level 58 | E33A |  |
+| Level 59 | E33B |  |
+| Level 60 | E33C |  |
+| Level 61 | E33D |  |
+| Level 62 | E33E |  |
+| Level 63 | E33F |  |
+| Level 64 | E340 |  |
+| Level 65 | E341 |  |
+| Level 66 | E342 |  |
+| Level 67 | E343 |  |
+| Level 68 | E344 |  |
+| Level 69 | E345 |  |
+| Level 70 | E346 |  |
+| Level 71 | E347 |  |
+| Level 72 | E348 |  |
+| Level 73 | E349 |  |
+| Level 74 | E34A |  |
+| Level 75 | E34B |  |
+| Level 76 | E34C |  |
+| Level 77 | E34D |  |
+| --- | --- | --- |
 
 ### Glyph E4 (256x256 Graph)
 
-| Use Cases | Glyph | Copyable |
-| --- | --- | --- |
+| Use Cases | Unicode | Copyable |
 | Occulto Text Logo | E400 |  |
+| Occulto Text Logo (moved slightly upwards) | E401 |  |
+| "Final Product is subject to change." | E402 |  |
+| "This is a Beta Build," | E403 |  |
+| "This is a Developer Build," | E404 |  |
 | --- | --- | --- |
 
 
