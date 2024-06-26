@@ -219,6 +219,7 @@ List of jars, resource packs and mods we've made and use below.
 ### Glyph E4 (256x256 Graph)
 
 | Use Cases | Unicode | Copyable |
+| --- | --- | --- |
 | Occulto Text Logo | E400 |  |
 | Occulto Text Logo (moved slightly upwards) | E401 |  |
 | "Final Product is subject to change." | E402 |  |
