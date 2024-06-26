@@ -99,6 +99,7 @@ List of jars, resource packs and mods we've made and use below.
 | Exclamation (NPC, Blue) | E122 |  |
 | Exclamation (NPC, Red) | E123 |  |
 | Pin | E124 |  |
+| Enchanting Skill | E125 |  |
 | --- | --- | --- |
 
 #### Glyph E2 (64x64 graph)
