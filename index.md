@@ -135,6 +135,7 @@ List of jars, resource packs and mods we've made and use below.
 #### Glyph E3 (32x32)
 
 | Use Cases | Unicode | Copyable |
+| --- | --- | --- |
 | Level 0 | E300 |  |
 | Level 1 | E301 |  |
 | Level 2 | E302 |  |
