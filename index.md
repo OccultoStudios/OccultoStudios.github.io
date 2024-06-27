@@ -231,6 +231,7 @@ List of jars, resource packs and mods we've made and use below.
 ## Color Codes
 
 | Use Cases | Hex | | RGB |
+| --- | --- | --- |
 | Pure White, Common Rarity | #FFFFFF | ??? |
 | Uncommon Rarity | #00D819 | ??? |
 | Rare Rarity | #0094FF | ??? |
