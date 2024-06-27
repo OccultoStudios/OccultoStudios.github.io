@@ -230,12 +230,12 @@ List of jars, resource packs and mods we've made and use below.
 
 ## Color Codes
 
-| Use Cases | Hex | | RGB |
+| Use Cases | Hex | RGB |
 | --- | --- | --- |
-| Pure White, Common Rarity | #FFFFFF | ??? |
-| Uncommon Rarity | #00D819 | ??? |
-| Rare Rarity | #0094FF | ??? |
-| Epic Rarity | #6532FF | ??? |
-| Legendary Rarity | #FFBF00 | ??? |
-| Mythic Rarity | #FF008C | ??? |
+| Pure White, Common Rarity | #FFFFFF | (255, 255, 255) |
+| Uncommon Rarity | #00D819 | (0, 216, 25) |
+| Rare Rarity | #0094FF | (0, 148, 255) |
+| Epic Rarity | #6532FF | (101, 50, 255) |
+| Legendary Rarity | #FFBF00 | (255, 191, 0) |
+| Mythic Rarity | #FF008C | (255, 0, 140) |
 | --- | --- | --- |
