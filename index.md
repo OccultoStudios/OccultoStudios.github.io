@@ -228,4 +228,13 @@ List of jars, resource packs and mods we've made and use below.
 | "This is a Developer Build," | E404 |  |
 | --- | --- | --- |
 
+## Color Codes
 
+| Use Cases | Hex | | RGB |
+| Pure White, Common Rarity | #FFFFFF | ??? |
+| Uncommon Rarity | #00D819 | ??? |
+| Rare Rarity | #0094FF | ??? |
+| Epic Rarity | #6532FF | ??? |
+| Legendary Rarity | #FFBF00 | ??? |
+| Mythic Rarity | #FF008C | ??? |
+| --- | --- | --- |
