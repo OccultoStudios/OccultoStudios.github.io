@@ -4,7 +4,7 @@
 ## Server Jars, Mods & Resource Packs
 List of jars, resource packs and mods we've made and use below.
 * All Server Jars use [Minestom](https://minestom.net)'s Libraries.
-* All Jars use Kotlin & Java.
+* All Jars use Kotlin, sometimes Java.
 
 | Name | Repo | Docs | Download | Type |
 | --- | --- | --- | --- | --- |
