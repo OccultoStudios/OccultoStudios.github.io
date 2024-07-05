@@ -76,13 +76,13 @@ List of jars, resource packs and mods we've made and use below.
 | Occulto Eye (Mini) | E10B |  |
 | Mouse Left Click | E10C |  |
 | Mouse Right Click | E10D |  |
-| Playstation L2 | E10E |  |
-| Playstation R2 | E10F |  |
+| Playstation 4 L2 | E10E |  |
+| Playstation 4 R2 | E10F |  |
 | Windows | E110 |  |
 | Android | E111 |  |
 | MacOS/iOS | E112 |  |
 | Xbox | E113 |  |
-| Playstation | E114 |  |
+| Playstation 4 | E114 |  |
 | Nintendo Switch | E115 |  |
 | Java | E116 |  |
 | Xbox LT | E117 |  |
@@ -100,6 +100,10 @@ List of jars, resource packs and mods we've made and use below.
 | Exclamation (NPC, Red) | E123 |  |
 | Pin | E124 |  |
 | Enchanting Skill | E125 |  |
+| Playstation 5 | E126 |  |
+| Playstation 5 L2 | E127 |  |
+| Playstation 5 R2 | E128 |  |
+| Mobile Tapping Icon | E129 |  |
 | --- | --- | --- |
 
 #### Glyph E2 (64x64 graph)
