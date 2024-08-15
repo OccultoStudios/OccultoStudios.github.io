@@ -43,6 +43,15 @@ List of jars, resource packs and mods we've made and use below.
 | Right Arrow | CHARCOAL | 1001 |
 | Up Arrow | CHARCOAL | 1002 |
 | Down Arrow | CHARCOAL | 1003 |
+| Accept | CHARCOAL | 1004 |
+| Deny | CHARCOAL | 1005 |
+| en_us (American) Flag | CHARCOAL | 1006 |
+| es_es (Spanish, Spain) Flag | CHARCOAL | 1007 |
+| de (German) Flag | CHARCOAL | 1008 |
+| fr (French) Flag | CHARCOAL | 1009 |
+| Play | CHARCOAL | 1010 |
+| Plus | CHARCOAL | 1011 |
+| Trash | CHARCOAL | 1012 |
 | --- | --- | --- |
 
 #### Tools (java & bedrock)
