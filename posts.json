@@ -1,7 +1,13 @@
 [{
-  "title": "Lorem Ipsum",
-  "desc": "Lorem Ipsum is a type of filler text used to fill in content, mostly used in programming, before it's completed."
-}, {
   "title": "Repository Information",
   "desc": "!GetData https://raw.githack.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts/repo-info.html"
+}, {
+  "title": "Model Data",
+  "desc": "!GetData https://raw.githack.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts/model-data.html"
+}, {
+  "title": "Unicodes",
+  "desc": "!GetData https://raw.githack.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts/unicodes.html"
+}, {
+  "title": "Color Codes",
+  "desc": "!GetData https://raw.githack.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts/colors.html"
 }]
