@@ -3,5 +3,5 @@
   "desc": "Lorem Ipsum is a type of filler text used to fill in content, mostly used in programming, before it's completed."
 }, {
   "title": "Repository Information",
-  "desc": "!GetData https://github.com/OccultoStudios/OccultoStudios.github.io/raw/refs/heads/main/posts/repo-info.html"
+  "desc": "!GetData https://raw.githack.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts/repo-info.html"
 }]
