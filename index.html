@@ -59,7 +59,7 @@ html, body {
 }
 .post {
     width: calc(80% - 5px);
-    max-height: calc(60px - 5px);
+    max-height: calc(200px - 5px);
     cursor: pointer;
     overflow: hidden;
     background-color: #222;
@@ -143,8 +143,9 @@ td {
         post.classList.toggle('active');
     })
 }
+document.title = "Occulto Developer";
 const postsContainer = document.querySelector('.posts-container');
-const postsToggle = document.querySelector('.posts-container .fa-eye');
+const postsToggle = document.querySelector('.posts-container > h2 > .fa-solid');
 async function getPosts() {
     const URL = "https://raw.githubusercontent.com/OccultoStudios/OccultoStudios.github.io/refs/heads/main/posts.json";
     const res = await fetch(URL);
